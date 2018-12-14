@@ -1,0 +1,5 @@
+[package]
+authors = ["apiraino <apiraino@users.noreply.github.com>"]
+name = "cargo-issue-6430"
+version = "0.1.0"
+edition = "2018"
